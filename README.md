@@ -4,7 +4,7 @@
   <img width="300" src="https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true" alt="Onyx Logo" />
 </a>
 
-<h2>Open Source AI Platform</h2>
+<h2>Open-Source Enterprise AI Chat for Any LLM/h2>
 
 <a href="https://discord.gg/TDJ59cGV2X" target="_blank">
   <img src="https://img.shields.io/badge/discord-join-blue.svg?logo=discord&logoColor=white" alt="Discord" />
